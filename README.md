@@ -1,4 +1,4 @@
-<img width="1470" alt="Screenshot 2024-11-27 at 8 30 52 PM" src="https://github.com/user-attachments/assets/9829885b-7757-463b-8cf5-2fcb44a6c80a"><img width="1470" alt="Screenshot 2024-11-27 at 8 30 52 PM" src="https://github.com/user-attachments/assets/afc05118-02f7-478d-b707-ec37e663364c"># Secure Authentication
+# Secure Authentication
 
 **Secure Authentication** is a robust and reliable authentication system designed to provide a seamless user experience while ensuring high-security standards. It includes essential features such as login, signup, OTP-based email verification, password reset, and integration with an email service for user communication.
 
