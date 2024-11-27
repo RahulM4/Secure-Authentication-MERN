@@ -37,7 +37,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/secure-authentication.git
+   git clone https://github.com/RahulM4/secure-authentication.git
    cd secure-authentication
    ```
 
@@ -51,9 +51,9 @@
    - Add the following keys:
      ```env
      NODE_ENV=development
-     PORT=3000
+     PORT=5000
      DB_URI=<Your MongoDB connection string>
-     EMAIL_SERVICE=<Your Email Service Provider (e.g., Gmail)>
+     EMAIL_SERVICE=Gmail
      EMAIL_USER=<Your Email Address>
      EMAIL_PASS=<Your Email Password>
      ```
