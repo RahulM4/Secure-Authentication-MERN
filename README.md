@@ -1,4 +1,4 @@
-# Secure Authentication
+<img width="1470" alt="Screenshot 2024-11-27 at 8 30 52 PM" src="https://github.com/user-attachments/assets/9829885b-7757-463b-8cf5-2fcb44a6c80a"><img width="1470" alt="Screenshot 2024-11-27 at 8 30 52 PM" src="https://github.com/user-attachments/assets/afc05118-02f7-478d-b707-ec37e663364c"># Secure Authentication
 
 **Secure Authentication** is a robust and reliable authentication system designed to provide a seamless user experience while ensuring high-security standards. It includes essential features such as login, signup, OTP-based email verification, password reset, and integration with an email service for user communication.
 
@@ -66,7 +66,14 @@
 ---
 
 ## Screenshorts
-![Uploading Screenshot 2024-11-27 at 8.30.52 PM.png…]()
+<img width="1470" alt="Screenshot 2024-11-27 at 8 36 37 PM" src="https://github.com/user-attachments/assets/7cd33c4d-a0f0-4dff-a6a9-748a360199c5">
+<img width="859" alt="Screenshot 2024-11-27 at 8 29 48 PM" src="https://github.com/user-attachments/assets/3114c54c-16b2-43d7-bd3a-13d872e18c70">
+<img width="1470" alt="Screenshot 2024-11-27 at 7 56 06 PM" src="https://github.com/user-attachments/assets/c28cab28-b56b-44c9-be90-015b19f22c72">
+<img width="1470" alt="Screenshot 2024-11-27 at 8 31 05 PM" src="https://github.com/user-attachments/assets/6d6d8484-e062-4a90-843c-f9632cc1b200"><img width="578" alt="Screenshot 2024-11-27 at 8 33 03 PM" src="https://github.com/user-attachments/assets/872b29b3-4f1a-4ea4-b951-792322ac7b68">
+<img width="686" alt="Screenshot 2024-11-27 at 8 31 15 PM" src="https://github.com/user-attachments/assets/b2e5860b-e7f9-4ba8-91ac-f70dbb41c888">
+
+
+
 
 
 ## Technologies Used
