@@ -36,7 +36,8 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between py-4 px-6">
         <div className="flex items-center space-x-4">
           <div className="text-2xl font-bold text-gray-800">
-            <h2><FaHome/></h2>
+          <a href="/login"><FaHome/></a>
+           
           </div>
         </div>
         <div className="flex lg:space-x-6">

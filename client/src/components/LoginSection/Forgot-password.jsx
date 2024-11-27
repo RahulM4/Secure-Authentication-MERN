@@ -47,6 +47,7 @@ const Forgotpassword = () => {
               id="email"
               name="email"
               type="email"
+              placeholder="Enter a valid email address"
               {...register("email", {
                 required: "Email is required",
                 pattern: {
