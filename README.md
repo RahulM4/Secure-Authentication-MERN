@@ -60,10 +60,14 @@
 
 4. Start the server:
    ```bash
-   npm start
+   node server.js
    ```
 
 ---
+
+## Screenshorts
+![Uploading Screenshot 2024-11-27 at 8.30.52 PM.png…]()
+
 
 ## Technologies Used
 
